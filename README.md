@@ -43,14 +43,14 @@ Screenshots of the application are available in the project for reference.
 ## 🌐 Live Demo
 
 👉 Live Project Link:  
-(Add your GitHub Pages live link here)
+
 
 ---
 
 ## 💻 GitHub Repository
 
 👉 Source Code:  
-(Add your GitHub repo link here)
+
 
 ---
 
