@@ -57,7 +57,6 @@ https://github.com/MamaPradhan/movie-finder-API-js-project.git
 ## 👩‍💻 Author
 
 **Mama Pradhan**  
-Frontend Developer (Fresher)
 
 ---
 
