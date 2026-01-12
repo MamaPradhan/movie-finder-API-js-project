@@ -43,14 +43,14 @@ Screenshots of the application are available in the project for reference.
 ## 🌐 Live Demo
 
 👉 Live Project Link:  
-
+https://mamapradhan.github.io/movie-finder-API-js-project/
 
 ---
 
 ## 💻 GitHub Repository
 
 👉 Source Code:  
-
+https://github.com/MamaPradhan/movie-finder-API-js-project.git
 
 ---
 
