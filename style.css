@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.search-box {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 220px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#loader {
+    margin: 15px;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+.movie-card {
+    background: #fff;
+    padding: 15px;
+    width: 260px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.movie-card img {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    cursor: pointer;
+    color: blue;
+}
